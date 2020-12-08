@@ -1,0 +1,20 @@
+{
+  "id": "com.influxdb.cloudronapp",
+  "title": "InfluxDB",
+  "author": "InfluxDB Team",
+  "description": "A time series database of wonder.",
+  "tagline": "InfluxDB",
+  "version": "0.1.0",
+  "healthCheckPath": "/metrics",
+  "httpPort": 8086,
+  "addons": {
+    "localstorage": {}
+  },
+  "memoryLimit": 524288000,
+  "manifestVersion": 2,
+  "website": "https://influxdb.io",
+  "contactEmail": "support@cloudron.io",
+  "icon": "influxlogo.png",
+  "tags": [ ],
+  "mediaLinks": []
+}

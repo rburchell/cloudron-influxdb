@@ -16,5 +16,10 @@
   "contactEmail": "support@cloudron.io",
   "icon": "influxlogo.png",
   "tags": [ ],
-  "mediaLinks": []
+  "mediaLinks": [
+  	"file://screenshots/screenshot1.png",
+  	"file://screenshots/screenshot2.png"
+  ],
+  "postInstallMessage":"file://POSTINSTALL.md",
+  "documentationUrl":"https://cloudron.io"
 }

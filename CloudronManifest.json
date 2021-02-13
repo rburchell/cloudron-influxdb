@@ -5,7 +5,7 @@
   "description": "A time series database of wonder.",
   "tagline": "InfluxDB",
   "version": "0.1.0",
-  "healthCheckPath": "/metrics",
+  "healthCheckPath": "/health",
   "httpPort": 8086,
   "addons": {
     "localstorage": {}
@@ -17,8 +17,6 @@
   "icon": "influxlogo.png",
   "tags": [ ],
   "mediaLinks": [
-  	"file://screenshots/screenshot1.png",
-  	"file://screenshots/screenshot2.png"
   ],
   "postInstallMessage":"file://POSTINSTALL.md",
   "documentationUrl":"https://cloudron.io"

@@ -1,8 +1,0 @@
-{
-  "query-concurrency": 20,
-  "query-queue-size": 15,
-  "secret-store": "bolt",
-  "session-length": 120,
-  "bolt-path": "/app/data/influxd.bolt",
-  "engine-path": "/app/data/engine"
-}
